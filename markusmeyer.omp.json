@@ -28,7 +28,7 @@
           "type": "git",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#193549",
+          "foreground": "#7e8082",
           "background": "#00305B",
           "properties": {
             "display_stash_count": true,

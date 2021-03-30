@@ -8,7 +8,7 @@
         {
           "type": "session",
           "style": "diamond",
-          "foreground": "#ffffff",
+          "foreground": "#000000",
           "background": "#f58025",
           "leading_diamond": "\uE0B6",
           "trailing_diamond": "\uE0B0"

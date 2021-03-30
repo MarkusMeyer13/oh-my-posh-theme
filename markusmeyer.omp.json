@@ -8,7 +8,7 @@
         {
           "type": "session",
           "style": "diamond",
-          "foreground": "#000000",
+          "foreground": "#7e8082",
           "background": "#f58025",
           "leading_diamond": "\uE0B6",
           "trailing_diamond": "\uE0B0"
@@ -17,7 +17,7 @@
           "type": "path",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#7e8082",
+          "foreground": "#ffffff",
           "background": "#7e8082",
           "properties": {
             "prefix": " \uE5FF ",

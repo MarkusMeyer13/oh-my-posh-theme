@@ -17,7 +17,7 @@
           "type": "path",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#ffffff",
+          "foreground": "#7e8082",
           "background": "#7e8082",
           "properties": {
             "prefix": " \uE5FF ",
